@@ -2,10 +2,8 @@ h1{
     color:red;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 50pt;
-    background-color: black;
-    background: inherit;
-    
+    font-size: 35pt;
+
  }
 
 
@@ -87,7 +85,6 @@ h1{
     margin: auto;
     width: auto;
     background: black;
-    background-image: url(https://cdn.wallpapersafari.com/7/53/qavm3o.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
@@ -95,10 +92,7 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  }
  
- h2{
-    background-color: black;
-    background: inherit;
- }
+
  p{
     background-color: black;
  }

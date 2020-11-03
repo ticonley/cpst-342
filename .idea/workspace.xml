@@ -6,14 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2f7337-f7e3-43f3-b4ce-f1a907393412" name="Default Changelist" comment="Added unit 1 index">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_2020_1_05_AM_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_2020_1_05_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unit-1/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-1/Mjbio.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/Mjbio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unit-1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-1/styles1.css" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/styles1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-1/styleslebronbio.css" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/styleslebronbio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-1/stylesmjbio.css" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/stylesmjbio.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603331266733</updated>
-      <workItem from="1603331268711" duration="37324000" />
+      <workItem from="1603331268711" duration="40607000" />
     </task>
     <task id="LOCAL-00001" summary="Added unit 1 index">
       <created>1603331872681</created>
@@ -82,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604385686620</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added unit 1 index">
+      <created>1604426403759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604426403759</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,18 +162,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603935703607" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604387482570">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604438655874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604387482570" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604438655874" />
     <state x="609" y="212" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1603935992970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="609" y="212" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603935992970" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604387121077">
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604426381846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604387121077" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604426381846" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1603927683617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

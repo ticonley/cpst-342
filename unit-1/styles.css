@@ -80,7 +80,7 @@ h1{
  body{
 
     font-size: 18pt;
-    padding: auto;
+
     margin: auto;
     width: auto;
     background:white;
@@ -90,52 +90,56 @@ h1{
     background-attachment: fixed;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  }
- 
 
- .flex-container{
-     background-color: black;
-        color:white;
-        display: flex;
-        flex-flow: row wrap;
-        justify-content: center;
-        margin: 5px 0;
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.column {
+    flex: 50%;
+    padding: 20px;
+}
+
+    @media screen and (max-width: 600px) {
+        .row {
+            flex-direction: column;
+        }
     }
-   
 
- .main-content{
-     color: purple;
-     text-align: center;
-     background-color:yellow;
-     flex:1;
-     border: 1px solid#666;
-     margin:2px;
-     padding: 10px;
-    
- }
- .sidebar{
-     text-align: center;
-     background-color:red;
-     flex:1;
-     margin:2px;
-     padding: 10px;
-     border: 1px solid#666;
- }
- @media screen and (max-width:360px){
-     .main-content .sidebar{
-         margin-bottom: 5px;
-         flex-basis: 40%;
-         display: block;
-     }
-   nav ul{
+.columna{
+    color: purple;
+    text-align: center;
+    background-color:yellow;
+    flex:1;
+    border: 1px solid#666;
+    margin:2px;
+    padding: 10px;
 
-         position: fixed;
-         width:100%;
-         height:100vh;
-         text-align: center;
-     }
-    nav ul li{
-         display: block;
+}
+.columnb{
+    text-align: center;
+    background-color:red;
+    flex:1;
+    margin:2px;
+    padding: 10px;
+    border: 1px solid#666;
+}
+@media screen and (max-width:600px) {
+    .flex-container {
+        width: 100%;
+    }
 
-     }
- }
+    nav ul {
+
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        text-align: center;
+    }
+
+    nav ul li {
+        display: block;
+
+    }
+}}}
      
