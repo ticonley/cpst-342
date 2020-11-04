@@ -2,7 +2,7 @@ h1{
     color:red;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 35pt;
+    font-size: 30pt;
 
  }
 
@@ -36,10 +36,11 @@ h1{
         background-size: 100%;
         text-align: center;
         padding: 20px;
-        height: 100px;
+        height: 125px;
         background-color: black;
         background-repeat: no-repeat;
         background-position: center;
+        
     }
    
     header a{
@@ -58,6 +59,7 @@ h1{
         text-indent: -9999999px;
         position: relative;
         top:-40px;
+        text-decoration: underline;
     }
 
     .features{
@@ -68,6 +70,7 @@ h1{
         flex-direction: row;
     }
     .features img{
+        
         border-radius: 50%;
         background-position: center;
         display: block;

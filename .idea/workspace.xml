@@ -6,7 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2f7337-f7e3-43f3-b4ce-f1a907393412" name="Default Changelist" comment="Added unit 1 index">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-1/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-1/Lebronbio.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/Lebronbio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-1/Mjbio.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/Mjbio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unit-1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-1/styles1.css" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/styles1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-1/styleslebronbio.css" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/styleslebronbio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-1/stylesmjbio.css" beforeDir="false" afterPath="$PROJECT_DIR$/unit-1/stylesmjbio.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603331266733</updated>
-      <workItem from="1603331268711" duration="40667000" />
+      <workItem from="1603331268711" duration="42421000" />
     </task>
     <task id="LOCAL-00001" summary="Added unit 1 index">
       <created>1603331872681</created>
@@ -89,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604441047916</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added unit 1 index">
+      <created>1604441081313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604441081314</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,10 +179,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603935703607" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604438655874">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604441353491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604438655874" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604441353491" />
     <state x="609" y="212" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1603935992970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
